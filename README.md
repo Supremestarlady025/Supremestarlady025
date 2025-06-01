@@ -20,6 +20,7 @@ This Data Analysis project aims to generate insight into the sales performance o
   - For Data cleaning
     
      a. Data manipulation
+    
      b. Data Munching
     
 - SQL Server (For Querying and Analysis)
