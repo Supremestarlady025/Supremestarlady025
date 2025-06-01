@@ -15,6 +15,11 @@ This Data Analysis project aims to generate insight into the sales performance o
 
 ### Tool used
 - MS Excel for Data Analysis cleaning (Download here)
+  - For Data collection
+  - For Data cleaning
+     a. Data manipulation
+     b. Data Munching
+    
 - SQL Server (For Querying and Analysis)
 - Power BI (for creating a report)
 - MS PowerPoint (for presentation)
