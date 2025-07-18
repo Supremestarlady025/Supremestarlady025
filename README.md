@@ -18,8 +18,6 @@ This Data Analysis project aims to analyze product and customer review data to g
     
   - For Data collection
   - For Data cleaning
-  - SQL Server (For Querying and  Analysis)
-
 
 ### Project topic 2: Kultra Mega Stores Inventory 
 
